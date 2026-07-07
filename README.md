@@ -15,6 +15,11 @@ Frontend Engineer building scalable SaaS products with a focus on clean architec
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+<p align="center">
+  <a href="https://ko-fi.com/jainvaibhav">
+    <img src="./kofi/support_me_on_kofi_badge_red.png" alt="Support me on ko-fi" height="60" />
+  </a>
+</p>
 
 ---
 
