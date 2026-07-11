@@ -26,7 +26,7 @@ Frontend Engineer building scalable SaaS products with a focus on clean architec
 ## 🛠 Tech Stack
 
 **Frontend**  
-`Angular` • `React` • `TypeScript` • `RxJS` • `NgRx`
+`Angular` • `React` • `Astro` • `TypeScript` • `RxJS` • `NgRx`
 
 **Backend**  
 `Node.js` • `Express` • `PostgreSQL`
