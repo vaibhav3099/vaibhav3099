@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav Jain 👋
 
-> *"Architecture scales teams. Clean code scales products."*
+> *"Building... at the intersection of Software, Hardware, and AI."*
 
 Frontend Engineer building scalable SaaS products with a focus on clean architecture, reusable UI systems, and developer experience.
 
